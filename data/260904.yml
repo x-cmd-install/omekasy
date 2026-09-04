@@ -7,7 +7,7 @@ about:
   head: a54c47a
   archived: false
   latestVersion: v1.3.3
-  collectedAt: 2026-09-04T19:39:19Z
+  collectedAt: 2026-09-04T20:53:16Z
 timeline:
   created: 2022-04-18
   lastCommit: 2026-08-06
@@ -80,5 +80,33 @@ total:
   openIssue: 4
   commit: 287
 ---
+path: /home/runner/.x-repo/github.com/ikanago/omekasy
+collectedAt: 2026-09-04T20:53:17Z
+loc:
+  Rust:
+    code: 495
+    comments: 5
+    blanks: 60
+    files: 4
+  Toml:
+    code: 36
+    comments: 0
+    blanks: 7
+    files: 2
+  Json:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 49
+    blanks: 10
+    files: 1
+total:
+  code: 561
+  comments: 64
+  blanks: 78
+  files: 8
 ---
 
