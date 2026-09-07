@@ -5,7 +5,7 @@ about:
   head: a54c47a
   archived: false
   latestVersion: "v1.3.3"
-  collectedAt: 2026-09-07T05:26:02Z
+  collectedAt: 2026-09-07T19:03:26Z
 timeline:
   created: 2022-04-18
   lastCommit: 2026-08-06
@@ -79,7 +79,7 @@ total:
   commit: 287
 ---
 path: /home/runner/.x-repo/github.com/ikanago/omekasy
-collectedAt: 2026-09-07T05:26:02Z
+collectedAt: 2026-09-07T19:03:27Z
 loc:
   Rust:
     code: 495
@@ -110,7 +110,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:03+00:00
+  collectedAt: 2026-09-07T19:03:28+00:00
   platform:
     darwin/arm64:
       name:  omekasy-v1.3.3-aarch64-apple-darwin.tar.gz
