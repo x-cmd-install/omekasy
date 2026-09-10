@@ -4,13 +4,24 @@
 
 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝕥𝕙𝕒𝕥 𝕔𝕠𝕟𝕧𝕖𝕣𝕥𝕤 𝕒𝕝𝕡𝕙𝕒𝕟𝕦𝕞𝕖𝕣𝕚𝕔 𝕔𝕙𝕒𝕣𝕒𝕔𝕥𝕖𝕣𝕤 𝒕𝒐 𝒗𝒂𝒓𝒊𝒐𝒖𝒔 𝒔𝒕𝒚𝒍𝒆𝒔 𝚍𝚎𝚏𝚒𝚗𝚎𝚍 𝚒𝚗 𝚄𝚗𝚒𝚌𝚘𝚍𝚎.
 
-![omekasy](https://repo.x-cmd.io/omekasy.svg)
+![omekasy](https://repo.x-cmd.io/omekasy.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install omekasy
 ```
+
+## 代码规模
+
+合计: **557** 行代码（覆盖前 5 种语言、共 **8** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 495 | 5 | 60 | 4 |
+| Toml | 36 | 0 | 7 | 2 |
+| Json | 26 | 0 | 0 | 1 |
+| Markdown | 0 | 49 | 10 | 1 |
 
 ## 源代码
 
@@ -22,7 +33,6 @@ x install omekasy
 - **最新版本**: `v1.3.3` (2025-06-06)
 - **最近提交**: 2026-08-06
 - **Release 含资产**: 4 个
-- **发布时间**: 2025-06-06T15:21:04Z
 
 ## 流行度
 
@@ -37,19 +47,29 @@ x install omekasy
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 5 |
 | 90d | 2026-06-12 | 0 | 0 | 1 | 0 | 0 | 5 |
+| last180d | 2026-03-14 | 0 | 0 | 2 | 0 | 0 | 6 |
 | 360d | 2025-09-15 | 0 | 0 | 2 | 0 | 0 | 20 |
+| last720d | 2024-09-20 | 2 | 2 | 3 | 0 | 0 | 60 |
 
-## 代码规模
+## Release 资产
 
-合计: **557** 行代码（覆盖前 5 种语言、共 **8** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [omekasy-v1.3.3-aarch64-apple-darwin.tar.gz](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-aarch64-apple-darwin.tar.gz) | 428.4 KiB | `native/darwin/arm64` |
+| [omekasy-v1.3.3-x86_64-apple-darwin.tar.gz](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-apple-darwin.tar.gz) | 446.5 KiB | `native/darwin/x64` |
+| [omekasy-v1.3.3-x86_64-pc-windows-msvc.zip](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-pc-windows-msvc.zip) | 322.1 KiB | `native/win/x64` |
+| [omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz) | 464.3 KiB | `native/linux/x64/glibc` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 495 | 5 | 60 | 4 |
-| Toml | 36 | 0 | 7 | 2 |
-| Json | 26 | 0 | 0 | 1 |
-| Markdown | 0 | 49 | 10 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/omekasy) 上共有 **10** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.3.3` | ✅ latest |
+| Nix unstable | `1.3.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -60,4 +80,4 @@ omekasy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:40:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:31:07Z._
