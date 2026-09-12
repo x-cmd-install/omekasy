@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 475485,
       "digest": "sha256:d9e2f8e0095524f5adf0dd9ae05b959b27882626afa805030a9080970084076a",
-      "download_count": 766,
+      "download_count": 768,
       "created_at": "2025-06-06T15:21:06Z",
       "updated_at": "2025-06-06T15:21:06Z",
       "browser_download_url": "https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz"
