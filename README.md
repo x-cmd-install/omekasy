@@ -46,12 +46,12 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-15 | 0 | 0 | 1 | 0 | 0 | 5 |
-| last180d | 2026-03-17 | 0 | 0 | 2 | 0 | 0 | 6 |
-| 360d | 2025-09-18 | 0 | 0 | 2 | 0 | 0 | 19 |
-| last720d | 2024-09-23 | 2 | 2 | 3 | 0 | 0 | 59 |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-06-16 | 0 | 0 | 1 | 0 | 0 | 5 |
+| last180d | 2026-03-18 | 0 | 0 | 2 | 0 | 0 | 6 |
+| 360d | 2025-09-19 | 0 | 0 | 2 | 0 | 0 | 19 |
+| last720d | 2024-09-24 | 2 | 2 | 3 | 0 | 0 | 59 |
 
 ## Release assets
 
@@ -62,15 +62,6 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 | [omekasy-v1.3.3-x86_64-pc-windows-msvc.zip](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-pc-windows-msvc.zip) | 322.1 KiB | `native/win/x64` |
 | [omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz) | 464.3 KiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/omekasy). **6** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.3.3` | ✅ latest |
-| Nix unstable | `1.3.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `omekasy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +71,4 @@ Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:34:42Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:35:13Z._
