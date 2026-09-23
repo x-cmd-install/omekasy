@@ -4,7 +4,7 @@
 
 𝘾𝙤𝙢𝙢𝙖𝙣𝙙 𝙡𝙞𝙣𝙚 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝕥𝕙𝕒𝕥 𝕔𝕠𝕟𝕧𝕖𝕣𝕥𝕤 𝕒𝕝𝕡𝕙𝕒𝕟𝕦𝕞𝕖𝕣𝕚𝕔 𝕔𝕙𝕒𝕣𝕒𝕔𝕥𝕖𝕣𝕤 𝒕𝒐 𝒗𝒂𝒓𝒊𝒐𝒖𝒔 𝒔𝒕𝒚𝒍𝒆𝒔 𝚍𝚎𝚏𝚒𝚗𝚎𝚍 𝚒𝚗 𝚄𝚗𝚒𝚌𝚘𝚍𝚎.
 
-[![x-cmd/install — omekasy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/omekasy.svg)](https://x-cmd.com/install/omekasy)
+[![x-cmd/install — omekasy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/omekasy.svg)](https://x-cmd.com/install/omekasy)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-24 | 0 | 0 | 1 | 0 | 0 | 6 |
-| last180d | 2026-03-26 | 0 | 0 | 3 | 0 | 0 | 7 |
-| 360d | 2025-09-27 | 0 | 0 | 3 | 0 | 0 | 20 |
-| last720d | 2024-10-02 | 2 | 1 | 4 | 0 | 0 | 58 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-25 | 0 | 0 | 1 | 0 | 0 | 6 |
+| last180d | 2026-03-27 | 0 | 0 | 3 | 0 | 0 | 7 |
+| 360d | 2025-09-28 | 0 | 0 | 3 | 0 | 0 | 20 |
+| last720d | 2024-10-03 | 2 | 1 | 4 | 0 | 0 | 58 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:50:05Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:49:23Z._
