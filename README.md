@@ -31,7 +31,7 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.3` (2025-06-06)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-25
 - **Assets in release**: 4
 
 ## Popularity
@@ -40,18 +40,18 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 37 · **Open PRs**: 4 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 289
+- **Releases**: 12 · **Merged PRs**: 37 · **Open PRs**: 4 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 2 |
-| last180d | 2026-05-28 | 0 | 0 | 2 | 0 | 0 | 7 |
-| 360d | 2025-11-29 | 0 | 0 | 3 | 0 | 0 | 16 |
-| last720d | 2024-12-04 | 2 | 1 | 4 | 0 | 0 | 56 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 3 |
+| last180d | 2026-05-29 | 0 | 0 | 2 | 0 | 0 | 8 |
+| 360d | 2025-11-30 | 0 | 0 | 3 | 0 | 0 | 17 |
+| last720d | 2024-12-05 | 2 | 1 | 4 | 0 | 0 | 57 |
 
 ## Release assets
 
@@ -62,15 +62,6 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 | [omekasy-v1.3.3-x86_64-pc-windows-msvc.zip](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-pc-windows-msvc.zip) | 322.1 KiB | `native/win/x64` |
 | [omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ikanago/omekasy/releases/download/v1.3.3/omekasy-v1.3.3-x86_64-unknown-linux-gnu.tar.gz) | 464.3 KiB | `native/linux/x64/glibc` |
 
-## Distribution status
-
-Reported by **10** distros on [repology.org](https://repology.org/project/omekasy). **6** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.3.3` | ✅ latest |
-| Nix unstable | `1.3.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `omekasy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -80,4 +71,4 @@ Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:34:01Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:38:39Z._
