@@ -46,12 +46,12 @@ Total: **557** lines of code across **8** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 3 |
-| last180d | 2026-05-31 | 0 | 0 | 2 | 0 | 0 | 8 |
-| 360d | 2025-12-02 | 0 | 0 | 3 | 0 | 0 | 17 |
-| last720d | 2024-12-07 | 2 | 1 | 4 | 0 | 0 | 55 |
+| 30d | 2026-10-29 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-29 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 3 |
+| last180d | 2026-06-01 | 0 | 0 | 2 | 0 | 0 | 8 |
+| 360d | 2025-12-03 | 0 | 0 | 3 | 0 | 0 | 17 |
+| last720d | 2024-12-08 | 2 | 1 | 4 | 0 | 0 | 55 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for omekasy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:55:12Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:34:00Z._
